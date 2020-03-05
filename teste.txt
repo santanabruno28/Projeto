@@ -1,2 +1,5 @@
-exemplo para ver se funciona
+﻿exemplo para ver se funciona
+
 Atualização do exemplo
+
+Agora eu estou editando o meu repositório local!
